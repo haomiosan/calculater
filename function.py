@@ -1,8 +1,5 @@
-from imp import is_frozen
-from operator import truediv
 import time,random,os,winreg,re
 from threading import Thread
-
 
 def beginning():
     time.sleep(1)

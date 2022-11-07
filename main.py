@@ -1,6 +1,4 @@
-from resources.assets import *
-from resources.gui import *
-from resources.setting import *
+from function import *
 
 if __name__=='__main__':
     while True:
